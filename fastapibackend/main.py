@@ -190,5 +190,5 @@ def send_email(email_request: EmailRequest):
 
 
 #print(match_candidates())
-email_request={"subject":"checking email","addresses":["focusedpeacock@gmail.com","rando@dadsddasd.com"],"body":"new email from server"}
-send_email(email_request)
+#email_request={"subject":"checking email","addresses":["focusedpeacock@gmail.com","rando@dadsddasd.com"],"body":"new email from server"}
+#send_email(email_request)
